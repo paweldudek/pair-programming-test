@@ -1,6 +1,6 @@
 //
-//  Pair_Programming_TestTests.m
-//  Pair Programming TestTests
+//  PairProgrammingTestSpecs.m
+//  PairProgrammingTestSpecs
 //
 //  Created by Pawel Dudek on 24/08/14.
 //  Copyright (c) 2014 Dudek. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface Pair_Programming_TestTests : XCTestCase
+@interface PairProgrammingTestSpecs : XCTestCase
 
 @end
 
-@implementation Pair_Programming_TestTests
+@implementation PairProgrammingTestSpecs
 
 - (void)setUp
 {
