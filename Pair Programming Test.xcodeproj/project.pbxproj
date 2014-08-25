@@ -129,7 +129,6 @@
 				437735AE19A9F6F70046C0BA /* AppDelegate.m */,
 				437735B019A9F6F70046C0BA /* Images.xcassets */,
 				437735A519A9F6F70046C0BA /* Supporting Files */,
-				B27A96DDB02463724138D60B /* Account Manager */,
 				B27A9304426B82286AB3E481 /* Main View */,
 			);
 			path = "Pair Programming Test";
@@ -172,13 +171,6 @@
 				B27A9FA4C5A449035251C398 /* MainViewController.h */,
 			);
 			path = "Main View";
-			sourceTree = "<group>";
-		};
-		B27A96DDB02463724138D60B /* Account Manager */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "Account Manager";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
